@@ -15,7 +15,7 @@ This work addresses the task of class-incremental weakly supervised object local
 
 <div>
   <img src="https://github.com/Vision-sejin/FDCNet/assets/117714660/c6382aff-1e9e-4a51-9934-84f410768d0b/graph.png"width="400" height="400"/>
-  <img src="https://github.com/Vision-sejin/FDCNet/assets/117714660/2e1397d8-64c2-4ab0-b864-f12a74d289ad/cam.png"width="300" height="300"/>
+  <img src="https://github.com/Vision-sejin/FDCNet/assets/117714660/2e1397d8-64c2-4ab0-b864-f12a74d289ad/cam.png"width="400" height="300"/>
 </div>
 <p align="center"><img src="https://github.com/Vision-sejin/FDCNet/assets/117714660/1a6a6cdb-c98a-490e-abe3-3359e268391d/table.png"width="800" height="700"/>
 
