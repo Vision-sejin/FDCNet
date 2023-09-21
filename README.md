@@ -1,5 +1,5 @@
 # FDCNet: Feature Drift Compensation Network for Class-Incremental Weakly Supervised Object Localization
-Official pytorch implementation of "FDCNet: Feature Drift Compensation Network for Class-Incremental Weakly Supervised Object Localization" 
+Official pytorch implementation of "FDCNet: Feature Drift Compensation Network for Class-Incremental Weakly Supervised Object Localization" \
 Our base code is from [BAS](https://github.com/wpy1999/BAS)
 
 # PAPER
