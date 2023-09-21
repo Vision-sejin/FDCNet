@@ -13,7 +13,7 @@ This work addresses the task of class-incremental weakly supervised object local
 
 # Results
 <p align="center"><img src="https://github.com/Vision-sejin/FDCNet/assets/117714660/0c115d88-0f3f-4522-bff8-3d8e8ceb9e8c/cam.png"width="400" height="250"/>
-<p align="center"><img src="https://github.com/Vision-sejin/FDCNet/assets/117714660/1a6a6cdb-c98a-490e-abe3-3359e268391d/table.png"width="350" height="7000"/>
+<p align="center"><img src="https://github.com/Vision-sejin/FDCNet/assets/117714660/1a6a6cdb-c98a-490e-abe3-3359e268391d/table.png"width="350" height="700"/>
 # Inference
 
 ```
