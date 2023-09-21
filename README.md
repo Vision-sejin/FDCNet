@@ -13,8 +13,8 @@ This work addresses the task of class-incremental weakly supervised object local
 
 # Results
 <div>
-  <img src="https://github.com/Vision-sejin/FDCNet/assets/117714660/c6382aff-1e9e-4a51-9934-84f410768d0b/graph.png"width="350" height="250"/>
-  <img src="https://github.com/Vision-sejin/FDCNet/assets/117714660/0c115d88-0f3f-4522-bff8-3d8e8ceb9e8c/cam.png"width="350" height="250"/>
+  <img src="https://github.com/Vision-sejin/FDCNet/assets/117714660/c6382aff-1e9e-4a51-9934-84f410768d0b/graph.png"width="400" height="400"/>
+  <img src="https://github.com/Vision-sejin/FDCNet/assets/117714660/0c115d88-0f3f-4522-bff8-3d8e8ceb9e8c/cam.png"width="400" height="400"/>
 </div>div
 <p align="center"><img src="https://github.com/Vision-sejin/FDCNet/assets/117714660/1a6a6cdb-c98a-490e-abe3-3359e268391d/table.png"width="800" height="700"/>
 
