@@ -13,3 +13,12 @@ This work addresses the task of class-incremental weakly supervised object local
 <p align="center"><img src="https://github.com/Vision-sejin/FDCNet/assets/117714660/0c115d88-0f3f-4522-bff8-3d8e8ceb9e8c/cam.png"width="700" height="350"/>
 
 
+#INFERENCE
+
+```
+@inproceedings{FDCNet,
+  title={FDCNet: Feature Drift Compensation Network for Class-Incremental Weakly Supervised Object Localization},
+  author={Sejin Park, Taehyung Lee, Yeejin Lee, Byeongkeun Kang},
+  journal={[arXiv preprint arXiv:2309.09122v1]},
+  year={2023}
+}
