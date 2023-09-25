@@ -1,4 +1,4 @@
-# [ACM MM'23]FDCNet: Feature Drift Compensation Network for Class-Incremental Weakly Supervised Object Localization
+# [ACM MM'23] FDCNet: Feature Drift Compensation Network for Class-Incremental Weakly Supervised Object Localization
 This is code base for the following paper:
 
 ### [FDCNet: Feature Drift Compensation Network for Class-Incremental Weakly Supervised Object Localization](https://arxiv.org/pdf/2309.09122v1.pdf)
