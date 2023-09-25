@@ -17,7 +17,8 @@ This work addresses the task of class-incremental weakly supervised object local
 
   
 # Inference
-
+[Baseline](https://drive.google.com/file/d/143Z9M6EejuLaLj9ZVlJFXpm_1yyvEZFP/view?usp=sharing)
+[Inference]
 ```
 python FDCNet_inference.py
 ```
