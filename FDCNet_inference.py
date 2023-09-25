@@ -29,7 +29,7 @@ class opts(object):
         self.parser.add_argument('--gpu',help='which gpu to use',default='0',dest='gpu')
         self.parser.add_argument('--data',metavar='DIR',default='../imagenet100',help='path to imagenet dataset')
         self.parser.add_argument('--arch', type=str, default='mobilenet')  ## choosen  [ vgg, resnet, inception, mobilenet, resnet18] 
-        self.parser.add_argument('--threshold', type=float, default=0.71)
+        self.parser.add_argument('--threshold', type=float, default=0.7)
         self.parser.add_argument('--adap', type=float, default=1)
         self.parser.add_argument('--adap_loc', type=float, default=0.2)
 
