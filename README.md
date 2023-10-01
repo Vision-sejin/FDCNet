@@ -32,4 +32,11 @@ python FDCNet_inference.py
 
 
 ```
-Sejin Park, Taehyung Lee, Yeejin Lee, Byeongkeun Kang. 2023. FDCNet: Feature Drift Compensation Network for Class-Incremental Weakly Supervised Object Localization. In Proceedings of the 31st ACM International Conference on Multimedia (MM '23). Association for Computing Machinery, New York, NY, USA, xx-xx. https://doi.org/10.1145/3581783.3612450
+@inproceedings{Sejinpark2023fdcnet,
+  title={Learning from Label Relationships in Human Affect},
+  author={FDCNet: Feature Drift Compensation Network for Class-Incremental Weakly Supervised Object Localization},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={xx--xx},
+  year={2023}
+}
+```
