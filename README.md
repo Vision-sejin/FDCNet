@@ -33,8 +33,8 @@ python FDCNet_inference.py
 
 ```
 @inproceedings{Sejinpark2023fdcnet,
-  title={Learning from Label Relationships in Human Affect},
-  author={FDCNet: Feature Drift Compensation Network for Class-Incremental Weakly Supervised Object Localization},
+  title={FDCNet: Feature Drift Compensation Network for Class-Incremental Weakly Supervised Object Localization},
+  author={Sejin Park, Taehyung Lee, Yeejin Lee, Byeongkeun Kang},
   booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
   pages={xx--xx},
   year={2023}
