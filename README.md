@@ -1,4 +1,4 @@
-# [ACM MM'23] FDCNet: Feature Drift Compensation Network for Class-Incremental Weakly Supervised Object Localization
+i# [ACM MM'23] FDCNet: Feature Drift Compensation Network for Class-Incremental Weakly Supervised Object Localization
 This is code base for the following paper:
 
 ### [FDCNet: Feature Drift Compensation Network for Class-Incremental Weakly Supervised Object Localization](https://arxiv.org/pdf/2309.09122v1.pdf)
@@ -32,11 +32,17 @@ python FDCNet_inference.py
 
 
 ```
-@inproceedings{Sejinpark2023fdcnet,
-  title={FDCNet: Feature Drift Compensation Network for Class-Incremental Weakly Supervised Object Localization},
-  author={Sejin Park, Taehyung Lee, Yeejin Lee, and Byeongkeun Kang},
-  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
-  pages={xx--xx},
-  year={2023}
+@inproceedings{10.1145/3581783.3612450,
+author = {Sejin Park, Taehyung Lee, Yeejin Lee, and Byeongkeun Kang},
+title = {FDCNet: Feature Drift Compensation Network for Class-Incremental Weakly Supervised Object Localization},
+year = {2023},
+isbn = {9781450392037},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3581783.3612450},
+doi = {10.1145/3581783.3612450},
+booktitle = {Proceedings of the 31st ACM International Conference on Multimedia},
+location = {Ottawa, Canada},
+series = {MM '23}
 }
 ```
