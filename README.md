@@ -4,7 +4,7 @@ This is code base for the following paper:
 ### [FDCNet: Feature Drift Compensation Network for Class-Incremental Weakly Supervised Object Localization](https://arxiv.org/pdf/2309.09122v1.pdf)
 Sejin Park, Taehyung Lee, Yeejin Lee, Byeongkeun Kang, ACM International Conference on Multimedia (MM'23), Ottawa, Canada, 2023, https://arxiv.org/pdf/2309.09122v1.pdf
 
-Our base code is from great [BAS](https://github.com/wpy1999/BAS) and please read our paper for details
+Our base code is from [BAS](https://github.com/wpy1999/BAS) and please read our paper for details
 
 # Abstract
 
